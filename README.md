@@ -44,10 +44,5 @@ We expect our input raw information to be either structured with a SQL dump, CSV
 
 ## Opinionated Software Options
 
-Web-RTC platform
-- https://developer.kandy.io/docs/javascript/2-4
--
-
-Real Time Rective Backend
-meteor.com
-
+Meteor.com for our Full stack, real-time javascript platform
+Access Web-RTC with https://developer.kandy.io/docs/javascript/2-4

@@ -44,5 +44,5 @@ We expect our input raw information to be either structured with a SQL dump, CSV
 
 ## Opinionated Software Options
 
-Meteor.com for our Full stack, real-time javascript platform
+https://Meteor.com for our Full stack, real-time javascript platform
 Access Web-RTC with https://developer.kandy.io/docs/javascript/2-4
